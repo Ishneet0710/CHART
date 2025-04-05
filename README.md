@@ -35,7 +35,4 @@ non_app_envm.yml file for the environment.
 
 
 # Citation
-```
-Ishneet Sukhvinder Singh, Pradyoth Kaza, Peter Gregory Hosler Iv, Zheng Yang Chin, and Kai Keng Ang. 2023. Real-Time Privacy Preserving Human Activity Recognition on Mobile using 1DCNN-BiLSTM Deep Learning. In Proceedings of the 2023 5th International Conference on Image, Video and Signal Processing (IVSP '23). Association for Computing Machinery, New York, NY, USA, 18–26. https://doi.org/10.1145/3591156.3591159
-
-```
+<pre>Ishneet Sukhvinder Singh, Pradyoth Kaza, Peter Gregory Hosler Iv, Zheng Yang Chin, and Kai Keng Ang. 2023. Real-Time Privacy Preserving Human Activity Recognition on Mobile using 1DCNN-BiLSTM Deep Learning. In Proceedings of the 2023 5th International Conference on Image, Video and Signal Processing (IVSP '23). Association for Computing Machinery, New York, NY, USA, 18–26. https://doi.org/10.1145/3591156.3591159</pre>
